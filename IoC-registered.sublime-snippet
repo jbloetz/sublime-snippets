@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[IoC::registered(${1:\$name});]]></content>
+    <tabTrigger>IoC</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: IoC::registered()</description>
+</snippet>

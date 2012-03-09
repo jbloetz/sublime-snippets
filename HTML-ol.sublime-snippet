@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[HTML::ol(${1:\$list}, ${2:\$attributes});]]></content>
+    <tabTrigger>HTML</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: HTML::ol()</description>
+</snippet>

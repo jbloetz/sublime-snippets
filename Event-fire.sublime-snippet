@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Event::fire(${1:\$event}, ${2:\$parameters});]]></content>
+    <tabTrigger>Event</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Event::fire()</description>
+</snippet>

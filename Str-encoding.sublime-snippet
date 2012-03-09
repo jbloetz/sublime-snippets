@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Str::encoding();]]></content>
+    <tabTrigger>Str</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Str::encoding()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[URL::to_action(${1:\$action}, ${2:\$parameters});]]></content>
+    <tabTrigger>URL</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: URL::to_action()</description>
+</snippet>

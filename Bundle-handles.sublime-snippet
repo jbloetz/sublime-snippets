@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Bundle::handles(${1:\$uri});]]></content>
+    <tabTrigger>Bundle</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Bundle::handles()</description>
+</snippet>

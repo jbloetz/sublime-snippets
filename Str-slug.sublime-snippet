@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Str::slug(${1:\$title}, ${2:\$separator});]]></content>
+    <tabTrigger>Str</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Str::slug()</description>
+</snippet>

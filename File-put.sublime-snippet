@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[File::put(${1:\$path}, ${2:\$data});]]></content>
+    <tabTrigger>File</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: File::put()</description>
+</snippet>

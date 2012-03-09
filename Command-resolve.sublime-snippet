@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Command::resolve(${1:\$bundle}, ${2:\$task});]]></content>
+    <tabTrigger>Command</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Command::resolve()</description>
+</snippet>

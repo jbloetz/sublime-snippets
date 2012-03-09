@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Filter::parse(${1:\$filters});]]></content>
+    <tabTrigger>Filter</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Filter::parse()</description>
+</snippet>

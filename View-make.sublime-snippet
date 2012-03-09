@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[View::make(${1:\$view}, ${2:\$data});]]></content>
+    <tabTrigger>View</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: View::make()</description>
+</snippet>

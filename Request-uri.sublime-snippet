@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Request::uri();]]></content>
+    <tabTrigger>Request</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Request::uri()</description>
+</snippet>

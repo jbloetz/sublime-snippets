@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Autoloader::namespaces(${1:\$mappings}, ${2:\$append});]]></content>
+    <tabTrigger>Autoloader</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Autoloader::namespaces()</description>
+</snippet>

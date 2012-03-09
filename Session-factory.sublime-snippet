@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Session::factory(${1:\$driver});]]></content>
+    <tabTrigger>Session</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Session::factory()</description>
+</snippet>

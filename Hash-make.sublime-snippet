@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Hash::make(${1:\$value}, ${2:\$rounds});]]></content>
+    <tabTrigger>Hash</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Hash::make()</description>
+</snippet>

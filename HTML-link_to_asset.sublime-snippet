@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[HTML::link_to_asset(${1:\$url}, ${2:\$title}, ${3:\$attributes}, ${4:\$https});]]></content>
+    <tabTrigger>HTML</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: HTML::link_to_asset()</description>
+</snippet>

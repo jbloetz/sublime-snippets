@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Redirect::home(${1:\$status}, ${2:\$https});]]></content>
+    <tabTrigger>Redirect</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Redirect::home()</description>
+</snippet>

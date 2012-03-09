@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Router::find(${1:\$name});]]></content>
+    <tabTrigger>Router</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Router::find()</description>
+</snippet>

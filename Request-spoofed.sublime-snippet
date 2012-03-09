@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Request::spoofed();]]></content>
+    <tabTrigger>Request</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Request::spoofed()</description>
+</snippet>

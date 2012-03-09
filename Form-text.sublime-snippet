@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Form::text(${1:\$name}, ${2:\$value}, ${3:\$attributes});]]></content>
+    <tabTrigger>Form</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Form::text()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Config::set(${1:\$key}, ${2:\$value});]]></content>
+    <tabTrigger>Config</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Config::set()</description>
+</snippet>

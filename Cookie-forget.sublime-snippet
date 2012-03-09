@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Cookie::forget(${1:\$name}, ${2:\$path}, ${3:\$domain}, ${4:\$secure});]]></content>
+    <tabTrigger>Cookie</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Cookie::forget()</description>
+</snippet>

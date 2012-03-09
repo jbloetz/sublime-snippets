@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[File::is(${1:\$extensions}, ${2:\$path});]]></content>
+    <tabTrigger>File</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: File::is()</description>
+</snippet>

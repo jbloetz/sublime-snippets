@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Response::error(${1:\$code}, ${2:\$data});]]></content>
+    <tabTrigger>Response</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Response::error()</description>
+</snippet>

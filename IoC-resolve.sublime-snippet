@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[IoC::resolve(${1:\$name}, ${2:\$parameters});]]></content>
+    <tabTrigger>IoC</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: IoC::resolve()</description>
+</snippet>

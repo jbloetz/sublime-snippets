@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[PDO::getAvailableDrivers();]]></content>
+    <tabTrigger>PDO</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: PDO::getAvailableDrivers()</description>
+</snippet>

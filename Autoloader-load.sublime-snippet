@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Autoloader::load(${1:\$class});]]></content>
+    <tabTrigger>Autoloader</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Autoloader::load()</description>
+</snippet>

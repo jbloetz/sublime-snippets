@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Input::old(${1:\$key}, ${2:\$default});]]></content>
+    <tabTrigger>Input</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Input::old()</description>
+</snippet>

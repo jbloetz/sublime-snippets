@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Error::native(${1:\$code}, ${2:\$error}, ${3:\$file}, ${4:\$line});]]></content>
+    <tabTrigger>Error</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Error::native()</description>
+</snippet>

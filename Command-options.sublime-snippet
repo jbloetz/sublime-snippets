@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Command::options(${1:\$argv});]]></content>
+    <tabTrigger>Command</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Command::options()</description>
+</snippet>

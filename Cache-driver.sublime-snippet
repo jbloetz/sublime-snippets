@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Cache::driver(${1:\$driver});]]></content>
+    <tabTrigger>Cache</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Cache::driver()</description>
+</snippet>

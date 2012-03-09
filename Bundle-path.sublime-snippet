@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Bundle::path(${1:\$bundle});]]></content>
+    <tabTrigger>Bundle</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Bundle::path()</description>
+</snippet>

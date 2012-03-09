@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Router::group(${1:\$attributes}, ${2:\$callback});]]></content>
+    <tabTrigger>Router</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Router::group()</description>
+</snippet>

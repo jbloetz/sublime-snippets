@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Autoloader::alias(${1:\$class}, ${2:\$alias});]]></content>
+    <tabTrigger>Autoloader</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Autoloader::alias()</description>
+</snippet>

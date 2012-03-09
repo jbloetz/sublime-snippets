@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Input::has(${1:\$key});]]></content>
+    <tabTrigger>Input</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Input::has()</description>
+</snippet>

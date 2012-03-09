@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Route::filter(${1:\$name}, ${2:\$callback});]]></content>
+    <tabTrigger>Route</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Route::filter()</description>
+</snippet>

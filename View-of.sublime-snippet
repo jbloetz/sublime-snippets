@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[View::of(${1:\$name}, ${2:\$data});]]></content>
+    <tabTrigger>View</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: View::of()</description>
+</snippet>

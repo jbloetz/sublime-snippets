@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[URL::base();]]></content>
+    <tabTrigger>URL</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: URL::base()</description>
+</snippet>

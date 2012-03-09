@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Response::make(${1:\$content}, ${2:\$status}, ${3:\$headers});]]></content>
+    <tabTrigger>Response</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Response::make()</description>
+</snippet>

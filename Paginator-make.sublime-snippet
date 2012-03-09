@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Paginator::make(${1:\$results}, ${2:\$total}, ${3:\$per_page});]]></content>
+    <tabTrigger>Paginator</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Paginator::make()</description>
+</snippet>

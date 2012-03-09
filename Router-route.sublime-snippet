@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Router::route(${1:\$method}, ${2:\$uri});]]></content>
+    <tabTrigger>Router</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Router::route()</description>
+</snippet>

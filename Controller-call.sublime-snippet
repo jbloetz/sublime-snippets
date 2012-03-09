@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Controller::call(${1:\$destination}, ${2:\$parameters});]]></content>
+    <tabTrigger>Controller</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Controller::call()</description>
+</snippet>

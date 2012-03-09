@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Form::radio(${1:\$name}, ${2:\$value}, ${3:\$checked}, ${4:\$attributes});]]></content>
+    <tabTrigger>Form</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Form::radio()</description>
+</snippet>

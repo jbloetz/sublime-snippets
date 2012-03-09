@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[URL::transpose(${1:\$uri}, ${2:\$parameters});]]></content>
+    <tabTrigger>URL</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: URL::transpose()</description>
+</snippet>

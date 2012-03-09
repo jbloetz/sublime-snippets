@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Hash::check(${1:\$value}, ${2:\$hash});]]></content>
+    <tabTrigger>Hash</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Hash::check()</description>
+</snippet>

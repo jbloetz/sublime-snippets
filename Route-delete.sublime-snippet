@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Route::delete(${1:\$route}, ${2:\$action});]]></content>
+    <tabTrigger>Route</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Route::delete()</description>
+</snippet>

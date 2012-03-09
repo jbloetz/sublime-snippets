@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Cookie::forever(${1:\$name}, ${2:\$value}, ${3:\$path}, ${4:\$domain}, ${5:\$secure});]]></content>
+    <tabTrigger>Cookie</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Cookie::forever()</description>
+</snippet>

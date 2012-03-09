@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Log::exception(${1:\$e});]]></content>
+    <tabTrigger>Log</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Log::exception()</description>
+</snippet>

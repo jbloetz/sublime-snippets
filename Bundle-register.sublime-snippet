@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Bundle::register(${1:\$bundle}, ${2:\$config});]]></content>
+    <tabTrigger>Bundle</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Bundle::register()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Request::route();]]></content>
+    <tabTrigger>Request</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Request::route()</description>
+</snippet>

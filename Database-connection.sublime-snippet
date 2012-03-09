@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Database::connection(${1:\$connection});]]></content>
+    <tabTrigger>Database</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Database::connection()</description>
+</snippet>

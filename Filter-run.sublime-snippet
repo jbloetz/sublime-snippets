@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Filter::run(${1:\$collections}, ${2:\$pass}, ${3:\$override});]]></content>
+    <tabTrigger>Filter</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Filter::run()</description>
+</snippet>

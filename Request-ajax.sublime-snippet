@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Request::ajax();]]></content>
+    <tabTrigger>Request</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Request::ajax()</description>
+</snippet>

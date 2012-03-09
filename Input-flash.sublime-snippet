@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Input::flash(${1:\$filter}, ${2:\$keys});]]></content>
+    <tabTrigger>Input</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Input::flash()</description>
+</snippet>

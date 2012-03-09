@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[URL::to(${1:\$url}, ${2:\$https});]]></content>
+    <tabTrigger>URL</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: URL::to()</description>
+</snippet>

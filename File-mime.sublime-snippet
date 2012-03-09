@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[File::mime(${1:\$extension}, ${2:\$default});]]></content>
+    <tabTrigger>File</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: File::mime()</description>
+</snippet>

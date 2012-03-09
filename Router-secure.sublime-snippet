@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Router::secure(${1:\$method}, ${2:\$route}, ${3:\$action});]]></content>
+    <tabTrigger>Router</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Router::secure()</description>
+</snippet>

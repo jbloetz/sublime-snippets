@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[URI::full();]]></content>
+    <tabTrigger>URI</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: URI::full()</description>
+</snippet>

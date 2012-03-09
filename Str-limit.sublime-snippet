@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Str::limit(${1:\$value}, ${2:\$limit}, ${3:\$end});]]></content>
+    <tabTrigger>Str</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Str::limit()</description>
+</snippet>

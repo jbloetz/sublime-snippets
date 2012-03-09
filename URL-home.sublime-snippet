@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[URL::home(${1:\$https});]]></content>
+    <tabTrigger>URL</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: URL::home()</description>
+</snippet>

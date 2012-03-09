@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Asset::container(${1:\$container});]]></content>
+    <tabTrigger>Asset</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Asset::container()</description>
+</snippet>

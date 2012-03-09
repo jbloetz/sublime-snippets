@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Config::has(${1:\$key});]]></content>
+    <tabTrigger>Config</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Config::has()</description>
+</snippet>

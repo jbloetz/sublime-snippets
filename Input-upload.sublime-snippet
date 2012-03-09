@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Input::upload(${1:\$key}, ${2:\$path});]]></content>
+    <tabTrigger>Input</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Input::upload()</description>
+</snippet>

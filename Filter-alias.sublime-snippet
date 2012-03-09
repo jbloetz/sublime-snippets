@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Filter::alias(${1:\$filter}, ${2:\$alias});]]></content>
+    <tabTrigger>Filter</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Filter::alias()</description>
+</snippet>

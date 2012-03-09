@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Input::only(${1:\$keys});]]></content>
+    <tabTrigger>Input</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Input::only()</description>
+</snippet>

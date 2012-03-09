@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Bundle::disable(${1:\$bundle});]]></content>
+    <tabTrigger>Bundle</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Bundle::disable()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[URI::segment(${1:\$index}, ${2:\$default});]]></content>
+    <tabTrigger>URI</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: URI::segment()</description>
+</snippet>

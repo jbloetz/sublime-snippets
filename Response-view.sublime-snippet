@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Response::view(${1:\$view}, ${2:\$data});]]></content>
+    <tabTrigger>Response</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Response::view()</description>
+</snippet>

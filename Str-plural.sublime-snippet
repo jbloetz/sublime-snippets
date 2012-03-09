@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Str::plural(${1:\$value}, ${2:\$count});]]></content>
+    <tabTrigger>Str</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Str::plural()</description>
+</snippet>

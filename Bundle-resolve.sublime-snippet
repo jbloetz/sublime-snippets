@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Bundle::resolve(${1:\$bundle});]]></content>
+    <tabTrigger>Bundle</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Bundle::resolve()</description>
+</snippet>

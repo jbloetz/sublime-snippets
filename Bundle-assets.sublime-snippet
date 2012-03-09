@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Bundle::assets(${1:\$bundle});]]></content>
+    <tabTrigger>Bundle</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Bundle::assets()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[File::type(${1:\$path});]]></content>
+    <tabTrigger>File</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: File::type()</description>
+</snippet>

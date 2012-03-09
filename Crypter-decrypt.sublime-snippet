@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Crypter::decrypt(${1:\$value});]]></content>
+    <tabTrigger>Crypter</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Crypter::decrypt()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Autoloader::map(${1:\$mappings});]]></content>
+    <tabTrigger>Autoloader</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Autoloader::map()</description>
+</snippet>

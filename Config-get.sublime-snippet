@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Config::get(${1:\$key}, ${2:\$default});]]></content>
+    <tabTrigger>Config</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Config::get()</description>
+</snippet>

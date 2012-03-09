@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[File::get(${1:\$path}, ${2:\$default});]]></content>
+    <tabTrigger>File</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: File::get()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Cookie::sign(${1:\$name}, ${2:\$value});]]></content>
+    <tabTrigger>Cookie</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Cookie::sign()</description>
+</snippet>

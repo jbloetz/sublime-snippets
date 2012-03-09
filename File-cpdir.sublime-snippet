@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[File::cpdir(${1:\$source}, ${2:\$destination}, ${3:\$delete}, ${4:\$options});]]></content>
+    <tabTrigger>File</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: File::cpdir()</description>
+</snippet>

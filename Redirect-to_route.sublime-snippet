@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Redirect::to_route(${1:\$route}, ${2:\$parameters}, ${3:\$status});]]></content>
+    <tabTrigger>Redirect</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Redirect::to_route()</description>
+</snippet>

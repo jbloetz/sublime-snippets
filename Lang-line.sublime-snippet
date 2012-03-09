@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Lang::line(${1:\$key}, ${2:\$replacements}, ${3:\$language});]]></content>
+    <tabTrigger>Lang</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Lang::line()</description>
+</snippet>

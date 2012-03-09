@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Router::share(${1:\$routes}, ${2:\$action});]]></content>
+    <tabTrigger>Router</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Router::share()</description>
+</snippet>

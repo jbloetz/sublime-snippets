@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[View::composer(${1:\$view}, ${2:\$composer});]]></content>
+    <tabTrigger>View</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: View::composer()</description>
+</snippet>

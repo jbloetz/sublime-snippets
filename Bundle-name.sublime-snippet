@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Bundle::name(${1:\$identifier});]]></content>
+    <tabTrigger>Bundle</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Bundle::name()</description>
+</snippet>

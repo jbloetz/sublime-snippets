@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[URL::to_secure(${1:\$url});]]></content>
+    <tabTrigger>URL</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: URL::to_secure()</description>
+</snippet>

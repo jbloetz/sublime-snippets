@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Request::protocol();]]></content>
+    <tabTrigger>Request</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Request::protocol()</description>
+</snippet>

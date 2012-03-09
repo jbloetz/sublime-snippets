@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Request::server(${1:\$key}, ${2:\$default});]]></content>
+    <tabTrigger>Request</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Request::server()</description>
+</snippet>

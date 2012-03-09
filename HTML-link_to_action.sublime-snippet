@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[HTML::link_to_action(${1:\$action}, ${2:\$title}, ${3:\$parameters}, ${4:\$attributes});]]></content>
+    <tabTrigger>HTML</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: HTML::link_to_action()</description>
+</snippet>

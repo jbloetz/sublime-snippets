@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Router::uses(${1:\$action});]]></content>
+    <tabTrigger>Router</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Router::uses()</description>
+</snippet>

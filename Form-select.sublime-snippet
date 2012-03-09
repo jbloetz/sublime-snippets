@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Form::select(${1:\$name}, ${2:\$options}, ${3:\$selected}, ${4:\$attributes});]]></content>
+    <tabTrigger>Form</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Form::select()</description>
+</snippet>
